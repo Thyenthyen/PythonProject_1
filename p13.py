@@ -1,5 +1,5 @@
 # Program name: p13
-# Your Name: Ngoc Dan Thuyen Nguyen
+ Thuyen Nguyen
 # Python Version: 3.10.4
 # 5/3/2022
 # Description:
