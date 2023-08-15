@@ -1,5 +1,5 @@
 # Program name: p12
-# Your Name: Ngoc Dan Thuyen Nguyen
+# Your Name:  Thuyen Nguyen
 # Python Version: 3.10.4
 # 5/3/2022
 # Description:
