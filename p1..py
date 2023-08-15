@@ -1,5 +1,5 @@
 # Program Name: p1.py
-# My Name: Ngoc Nguyen
+# My Name: Thuyen Nguyen
 # Python version: 3.10.4
 # Date: 04/09/2022 - 4/10/2022
 # Description:
