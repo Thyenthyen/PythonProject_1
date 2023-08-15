@@ -1,5 +1,5 @@
 # Program name: p14
-# Your Name: Ngoc Dan Thuyen Nguyen
+# Thuyen Nguyen
 # Python Version: 3.10.4
 # Date Started - Date Finished: 6/3/2022
 # Description:
